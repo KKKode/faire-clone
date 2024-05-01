@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <>
       <AdSection />
-      <nav className="w-full sticky z-[999] top-0 bg-white">
+      <nav className="hidden lg:block w-full sticky z-[999] top-0 bg-white">
         <section className="nav-container flex items-center justify-between text-sm py-4">
           <img src="/faire-logo.svg" alt="logo" className="w-28" />
           <SearchBar />
