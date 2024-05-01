@@ -17,7 +17,7 @@ const Advertisement = () => {
             ✔ Unique products curated for your store
           </li>
         </ul>
-        <SignupButton className="btn-secondary" />
+        <SignupButton title="Sign Up for Shop" className="btn-secondary" />
       </div>
     </section>
   );

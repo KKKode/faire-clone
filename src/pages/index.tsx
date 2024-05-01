@@ -21,8 +21,8 @@ export default function Home() {
             Discover products for your store on the Faire wholesale marketplace
           </p>
           <p className="description">
-            At Faire, we're empowering small business owners and independent
-            brands to buy and sell wholesale goods online. If you're a retailer
+            At Faire, we are empowering small business owners and independent
+            brands to buy and sell wholesale goods online. If you are a retailer
             shopping for wholesale products, Faire offers you straight-forward
             financial terms and logistics that were previously only available to
             large retail chains. We also provide powerful sales, marketing, and
